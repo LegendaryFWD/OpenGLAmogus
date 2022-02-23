@@ -1,0 +1,571 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\deusd\\Documents\\cpp\\nada",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2022-01-23 14:33:55",
+            "filesum": 37,
+            "codesum": 2105,
+            "commentsum": 82,
+            "blanksum": 149,
+            "statistics": {
+                ".d": {
+                    "code": 10,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".cpp": {
+                    "code": 223,
+                    "comment": 5,
+                    "blank": 64
+                },
+                ".vert": {
+                    "code": 13,
+                    "comment": 0,
+                    "blank": 12
+                },
+                ".frag": {
+                    "code": 9,
+                    "comment": 0,
+                    "blank": 4
+                },
+                ".h": {
+                    "code": 75,
+                    "comment": 0,
+                    "blank": 19
+                },
+                ".c": {
+                    "code": 1761,
+                    "comment": 25,
+                    "blank": 47
+                },
+                "": {
+                    "code": 14,
+                    "comment": 52,
+                    "blank": 3
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "EBO.d"
+                },
+                {
+                    "filename": "glfw3.dll",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "main.d"
+                },
+                {
+                    "blank": 3,
+                    "code": 14,
+                    "comment": 52,
+                    "filename": "Makefile"
+                },
+                {
+                    "filename": "matrix.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\EBO.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\main.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\shader.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\shaderClass.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\stb.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\texture.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\VAO.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\VBO.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "shader.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "shaderClass.d"
+                },
+                {
+                    "blank": 5,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\EBO.cpp"
+                },
+                {
+                    "blank": 47,
+                    "code": 1761,
+                    "comment": 25,
+                    "filename": "src\\glad.c"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\headers\\EBO.h"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "src\\headers\\shader.h"
+                },
+                {
+                    "blank": 4,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src\\headers\\texture.h"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\headers\\VAO.h"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src\\headers\\VBO.h"
+                },
+                {
+                    "blank": 24,
+                    "code": 78,
+                    "comment": 5,
+                    "filename": "src\\main.cpp"
+                },
+                {
+                    "filename": "src\\resources\\amogus.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 4,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\resources\\default.frag"
+                },
+                {
+                    "blank": 12,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src\\resources\\default.vert"
+                },
+                {
+                    "filename": "src\\resources\\fuck.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\resources\\pop_cat.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 11,
+                    "code": 62,
+                    "comment": 0,
+                    "filename": "src\\shader.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "src\\stb.cpp"
+                },
+                {
+                    "blank": 14,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src\\texture.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\VAO.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\VBO.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "stb.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "texture.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "VAO.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "VBO.d"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2022-01-23 15:14:25",
+            "filesum": 37,
+            "codesum": 2131,
+            "commentsum": 78,
+            "blanksum": 158,
+            "statistics": {
+                ".d": {
+                    "code": 10,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".cpp": {
+                    "code": 246,
+                    "comment": 1,
+                    "blank": 73
+                },
+                ".vert": {
+                    "code": 16,
+                    "comment": 0,
+                    "blank": 12
+                },
+                ".frag": {
+                    "code": 9,
+                    "comment": 0,
+                    "blank": 4
+                },
+                ".h": {
+                    "code": 75,
+                    "comment": 0,
+                    "blank": 19
+                },
+                ".c": {
+                    "code": 1761,
+                    "comment": 25,
+                    "blank": 47
+                },
+                "": {
+                    "code": 14,
+                    "comment": 52,
+                    "blank": 3
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "EBO.d"
+                },
+                {
+                    "filename": "glfw3.dll",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "main.d"
+                },
+                {
+                    "blank": 3,
+                    "code": 14,
+                    "comment": 52,
+                    "filename": "Makefile"
+                },
+                {
+                    "filename": "matrix.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\EBO.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\main.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\shader.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\shaderClass.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\stb.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\texture.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\VAO.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "obj\\VBO.o",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "shader.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "shaderClass.d"
+                },
+                {
+                    "blank": 5,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\EBO.cpp"
+                },
+                {
+                    "blank": 47,
+                    "code": 1761,
+                    "comment": 25,
+                    "filename": "src\\glad.c"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\headers\\EBO.h"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "src\\headers\\shader.h"
+                },
+                {
+                    "blank": 4,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src\\headers\\texture.h"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\headers\\VAO.h"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src\\headers\\VBO.h"
+                },
+                {
+                    "blank": 33,
+                    "code": 101,
+                    "comment": 1,
+                    "filename": "src\\main.cpp"
+                },
+                {
+                    "filename": "src\\resources\\amogus.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 4,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\resources\\default.frag"
+                },
+                {
+                    "blank": 12,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src\\resources\\default.vert"
+                },
+                {
+                    "filename": "src\\resources\\fuck.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\resources\\pop_cat.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 11,
+                    "code": 62,
+                    "comment": 0,
+                    "filename": "src\\shader.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "src\\stb.cpp"
+                },
+                {
+                    "blank": 14,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src\\texture.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\VAO.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\VBO.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "stb.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "texture.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "VAO.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "VBO.d"
+                }
+            ]
+        }
+    ]
+}

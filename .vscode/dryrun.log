@@ -1,0 +1,22 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/deusd/Documents/cpp/nada'
+ 
+g++ -std=c++11 -Wall -o obj/EBO.o -c src/EBO.cpp
+ 
+g++ -std=c++11 -Wall -o obj/VAO.o -c src/VAO.cpp
+ 
+g++ -std=c++11 -Wall -o obj/VBO.o -c src/VBO.cpp
+ 
+g++ -std=c++11 -Wall -o obj/camera.o -c src/camera.cpp
+ 
+g++ -std=c++11 -Wall -o obj/main.o -c src/main.cpp
+ 
+g++ -std=c++11 -Wall -o obj/shader.o -c src/shader.cpp
+ 
+g++ -std=c++11 -Wall -o obj/stb.o -c src/stb.cpp
+ 
+g++ -std=c++11 -Wall -o obj/texture.o -c src/texture.cpp
+ 
+g++ -std=c++11 -Wall -o matrix obj/EBO.o obj/VAO.o obj/VBO.o obj/camera.o obj/main.o obj/shader.o obj/stb.o obj/texture.o src/glad.c -L. -lglfw3 -lopengl32 -lgdi32 
+make: Leaving directory 'c:/Users/deusd/Documents/cpp/nada'
+ 

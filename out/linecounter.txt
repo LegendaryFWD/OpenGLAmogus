@@ -1,0 +1,120 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2022-01-23 14:33:55
+count workspace : c:\Users\deusd\Documents\cpp\nada
+total files : 37
+total code lines : 2105
+total comment lines : 82
+total blank lines : 149
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |             .d|             10|              0|              0|   0.48|
+   |           .cpp|            223|              5|             64|     11|
+   |          .vert|             13|              0|             12|   0.62|
+   |          .frag|              9|              0|              4|   0.43|
+   |             .h|             75|              0|             19|    3.6|
+   |             .c|           1761|             25|             47|     84|
+   |               |             14|             52|              3|   0.67|
+   -------------------------------------------------------------------------
+EBO.d, code is 1, comment is 0, blank is 0.
+glfw3.dll, it is a binary file.
+main.d, code is 3, comment is 0, blank is 0.
+Makefile, code is 14, comment is 52, blank is 3.
+matrix.exe, it is a binary file.
+obj\EBO.o, it is a binary file.
+obj\main.o, it is a binary file.
+obj\shader.o, it is a binary file.
+obj\shaderClass.o, it is a binary file.
+obj\stb.o, it is a binary file.
+obj\texture.o, it is a binary file.
+obj\VAO.o, it is a binary file.
+obj\VBO.o, it is a binary file.
+shader.d, code is 1, comment is 0, blank is 0.
+shaderClass.d, code is 1, comment is 0, blank is 0.
+src\EBO.cpp, code is 15, comment is 0, blank is 5.
+src\glad.c, code is 1761, comment is 25, blank is 47.
+src\headers\EBO.h, code is 12, comment is 0, blank is 3.
+src\headers\shader.h, code is 20, comment is 0, blank is 5.
+src\headers\texture.h, code is 16, comment is 0, blank is 4.
+src\headers\VAO.h, code is 14, comment is 0, blank is 4.
+src\headers\VBO.h, code is 13, comment is 0, blank is 3.
+src\main.cpp, code is 78, comment is 5, blank is 24.
+src\resources\amogus.png, it is a binary file.
+src\resources\default.frag, code is 9, comment is 0, blank is 4.
+src\resources\default.vert, code is 13, comment is 0, blank is 12.
+src\resources\fuck.png, it is a binary file.
+src\resources\pop_cat.png, it is a binary file.
+src\shader.cpp, code is 62, comment is 0, blank is 11.
+src\stb.cpp, code is 2, comment is 0, blank is 0.
+src\texture.cpp, code is 32, comment is 0, blank is 14.
+src\VAO.cpp, code is 19, comment is 0, blank is 5.
+src\VBO.cpp, code is 15, comment is 0, blank is 5.
+stb.d, code is 1, comment is 0, blank is 0.
+texture.d, code is 1, comment is 0, blank is 0.
+VAO.d, code is 1, comment is 0, blank is 0.
+VBO.d, code is 1, comment is 0, blank is 0.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2022-01-23 15:14:25
+count workspace : c:\Users\deusd\Documents\cpp\nada
+total files : 37
+total code lines : 2131
+total comment lines : 78
+total blank lines : 158
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |             .d|             10|              0|              0|   0.47|
+   |           .cpp|            246|              1|             73|     12|
+   |          .vert|             16|              0|             12|   0.75|
+   |          .frag|              9|              0|              4|   0.42|
+   |             .h|             75|              0|             19|    3.5|
+   |             .c|           1761|             25|             47|     83|
+   |               |             14|             52|              3|   0.66|
+   -------------------------------------------------------------------------
+EBO.d, code is 1, comment is 0, blank is 0.
+glfw3.dll, it is a binary file.
+main.d, code is 3, comment is 0, blank is 0.
+Makefile, code is 14, comment is 52, blank is 3.
+matrix.exe, it is a binary file.
+obj\EBO.o, it is a binary file.
+obj\main.o, it is a binary file.
+obj\shader.o, it is a binary file.
+obj\shaderClass.o, it is a binary file.
+obj\stb.o, it is a binary file.
+obj\texture.o, it is a binary file.
+obj\VAO.o, it is a binary file.
+obj\VBO.o, it is a binary file.
+shader.d, code is 1, comment is 0, blank is 0.
+shaderClass.d, code is 1, comment is 0, blank is 0.
+src\EBO.cpp, code is 15, comment is 0, blank is 5.
+src\glad.c, code is 1761, comment is 25, blank is 47.
+src\headers\EBO.h, code is 12, comment is 0, blank is 3.
+src\headers\shader.h, code is 20, comment is 0, blank is 5.
+src\headers\texture.h, code is 16, comment is 0, blank is 4.
+src\headers\VAO.h, code is 14, comment is 0, blank is 4.
+src\headers\VBO.h, code is 13, comment is 0, blank is 3.
+src\main.cpp, code is 101, comment is 1, blank is 33.
+src\resources\amogus.png, it is a binary file.
+src\resources\default.frag, code is 9, comment is 0, blank is 4.
+src\resources\default.vert, code is 16, comment is 0, blank is 12.
+src\resources\fuck.png, it is a binary file.
+src\resources\pop_cat.png, it is a binary file.
+src\shader.cpp, code is 62, comment is 0, blank is 11.
+src\stb.cpp, code is 2, comment is 0, blank is 0.
+src\texture.cpp, code is 32, comment is 0, blank is 14.
+src\VAO.cpp, code is 19, comment is 0, blank is 5.
+src\VBO.cpp, code is 15, comment is 0, blank is 5.
+stb.d, code is 1, comment is 0, blank is 0.
+texture.d, code is 1, comment is 0, blank is 0.
+VAO.d, code is 1, comment is 0, blank is 0.
+VBO.d, code is 1, comment is 0, blank is 0.
+===============================================================================
